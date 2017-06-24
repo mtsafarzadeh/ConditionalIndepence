@@ -2,7 +2,7 @@
 
 This is a MATLAB code to perform a non parameteric conditional independence test given
 three variables that are observed in a system. 
-The formulation is outlines in detail in Safarzadeh & Younes (2017) MNRAS.
+The formulation is outlined in detail in Safarzadeh & Younes (2017) MNRAS.
 
 
 ### Who do I talk to? ###
